@@ -1,16 +1,18 @@
 # selling_point_app
 
 A new Flutter project.
-
+###### note: This project is dedicated to the Emirati company Shamseen, so the files related to linking data and interfaces -state management files - will be deleted.
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## What is the application?
+This application is part of several integrated applications built for the Emirati company Shamseen, including: the management application, the promoter application, the driver application, in addition to our application.
 
-A few resources to get you started if this is your first Flutter project:
+## Application description
+This application is part of the Shamsin Company project, where the company produces food materials and is sold in schools in the Emirates, as our application is responsible for selling to students, as the sale is done via a card given to the student with his own QR code on it. He can buy food through it, and the point of sale can request Invoices from the factory to the school. Invoices can also be requested from nearby schools, as well as an inventory of what has been sold or remaining materials
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Pictures of the application
+<div>
+  <img src = "https://raw.githubusercontent.com/abdsfw/point-of-sale/main/assets/image/home_page.png">
+</div> 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+//https://raw.githubusercontent.com/abdsfw/point-of-sale/main/assets/image/home_page.png
