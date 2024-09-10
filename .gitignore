@@ -48,3 +48,8 @@ lib/features/endDay/presentation/manager
 lib/features/home/presentation/manager
 lib/features/loginAndStart/presentation/manager
 lib/features/sale/presentation/manager
+lib/features/bills/data/repos/bills_repo_impl.dart
+lib/features/endDay/data/repos/endDay_repo_impl.dart
+lib/features/home/data/repos/home_repo_impl.dart
+lib/features/loginAndStart/data/repos/login_repo_impl.dart
+lib/features/sale/data/repos/sale_repo_impl.dart
